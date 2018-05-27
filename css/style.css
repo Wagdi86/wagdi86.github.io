@@ -1,0 +1,195 @@
+
+*{
+	padding: 0;
+	margin: 0;
+	font-family: arial;
+	font-size: 14px
+}
+body{
+	width: 1000px;
+	height: auto;
+	margin: 0 auto;
+}
+.container{
+	width: 1000px;
+	height: auto;
+	margin: 0 auto;
+}
+nav{
+	background-color: #005585;
+	height: 60px;
+	width: 1000px;
+	text-align: center;
+
+}
+nav .myname{
+	float: left;
+	padding-left: 25px;
+	padding-top: 15px;
+	font-size: 25px;
+	color: #dbedf3;
+	font-weight: bold;
+}
+nav ul li{
+	display: inline-block;
+	padding: 20px;
+	color: #dbedf3;
+	font-weight: bold;
+	font-size: 20px;
+
+}
+.search{
+	float: right;
+	margin-top: 20px;
+	margin-right: 30px;
+	width: 200px;
+	text-indent: 10px
+} 
+/*--------------------*/
+.sec{
+	background-color: #FFFFFF;
+	width: 100%;
+	display: inline-flex;
+	position: relative;
+	bottom: .5em
+
+}
+.vid{
+	width: 50%;
+	height: 300px;
+	margin-top: 5%;
+	padding-left: 50px
+	
+}
+.arti{
+	width: 33%;	
+	height: 200px;
+	float: right;
+	position: relative;
+	margin: 8%;
+	text-align:left; 
+
+}
+.arti h1{
+	text-align: center;
+	padding-bottom: 20px;
+	font-size: 20px
+}
+table{
+	background-color: #FFFFFF;
+	padding-top: 5%;
+	background-color: #f6f6f6;
+	position: relative;
+	bottom: .5em
+}
+th img{
+	margin-right: .2em;
+	border-radius: 10px 10px 0 0  ;
+	background-color: #fff;
+	position: relative;
+	top: 3.3em;
+	left: 2px
+}
+th p{
+	padding: 19px;
+	padding-left: 40px;
+	text-align: left;
+	font-weight: normal;
+	margin: 33px;
+	background-color: #fff;
+	border-radius: 10px 10px 10px 10px;
+
+}
+iframe{
+	width: 1000px;
+	height: auto;
+	margin: 0 auto;
+	background-color: #fff;
+	position: relative;
+	bottom: 1em;
+}
+input[type="name"]{
+	width: 90%;
+	display: block;
+	padding: 20px;
+	border-radius: 5px;
+	border:1px;
+	float: center;
+	margin: 0 auto;
+	margin-bottom: 1em
+
+}
+input[type="Email"]{
+	width: 90%;
+	display: block;
+	padding: 20px;
+	border-radius: 5px;
+	border:1px;
+	margin: 0 auto;
+	margin-bottom: 1em
+}
+input[type="Subject"]{
+	width: 90%;
+	display: block;
+	padding: 20px;
+	border-radius: 5px;
+	border:1px;
+	margin: 0 auto;
+	margin-bottom: 1em
+}
+input[type="Comment"]{
+	width: 90%;
+	display: block;
+	padding: 20px;
+	border-radius: 5px;
+	border:1px;
+	margin: 0 auto;
+	margin-bottom: 1em
+}
+.submit{
+	width: 94%;
+	display: block;
+	padding: 20px;
+	border-radius: 5px;
+	border:1px;
+	margin: 0 auto;
+	background-color: #00818a;
+	text-align: center;
+	margin-bottom: 1em;
+	color: #FFF
+}
+
+
+.end{
+	text-align: center;
+	background-color: #005585;
+	height: 30px;
+	color: white;
+	padding-top: 50px;
+	position: relative;
+	bottom: 1.3em;
+	border-bottom: 5px solid white
+
+}
+.contact{
+	background-color: #f6f6f6;
+	height: 400px;
+	position: relative;
+	bottom: 1em;
+	color: white
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
